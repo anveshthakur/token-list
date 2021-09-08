@@ -11977,6 +11977,17 @@
       "extensions": {
         "website": "https://raydium.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2gz6L1N6wvTC2F11o3KaKFatWhgL9AaMZ5pP5roy3QfF",
+      "symbol": "TEK",
+      "name": "TEK SOL",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/anveshthakur/TEK@master/01a76e397c4a4d02b11d56c5c6e82d06.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
